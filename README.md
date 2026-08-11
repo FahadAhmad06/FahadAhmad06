@@ -146,7 +146,7 @@ I'm always open to connecting with developers, collaborating on interesting proj
   <a href="https://github.com/FahadAhmad06">
     <img src="https://img.shields.io/badge/GitHub-FahadAhmad06-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="www.linkedin.com/in/fahad0621">
+  <a href="www.linkedin.com/in/fahadahmad06">
     <img src="https://img.shields.io/badge/LinkedIn-Fahad_Ahmad-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
