@@ -144,7 +144,7 @@ I'm always open to connecting with developers, collaborating on interesting proj
 
 <p>
    <a href="https://fahadahmadportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-your--name-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FahadAhmad-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/FahadAhmad06">
     <img src="https://img.shields.io/badge/GitHub-FahadAhmad06-181717?style=for-the-badge&logo=github" alt="GitHub">
