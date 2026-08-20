@@ -143,6 +143,9 @@ I'm particularly interested in:
 I'm always open to connecting with developers, collaborating on interesting projects, and learning from the community.
 
 <p>
+   <a href="[https://yourportfolio-link.com](https://fahadahmadportfolio.vercel.app/)">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+   </a>
   <a href="https://github.com/FahadAhmad06">
     <img src="https://img.shields.io/badge/GitHub-FahadAhmad06-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
