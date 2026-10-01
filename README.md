@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Flutter Developer | Full-Stack Developer
 
-I'm a **4th-semester Computer Science student** passionate about software development and building practical, user-focused applications.
+I'm a **5th-semester Computer Science student** passionate about software development and building practical, user-focused applications.
 
 I enjoy working across **mobile development, frontend, backend, databases, and cloud services**. I'm currently focusing on Flutter while expanding my knowledge of backend and full-stack development.
 
