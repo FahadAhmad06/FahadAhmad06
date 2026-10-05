@@ -10,7 +10,7 @@ I enjoy working across **mobile development, frontend, backend, databases, and c
 
 ## About Me
 
-- 🎓 BS Computer Science — 4th Semester
+- 🎓 BS Computer Science — 5th Semester
 - 📱 Focused on Flutter & Dart
 - 🌐 Exploring Full-Stack Development
 - 🔥 Working with Firebase
