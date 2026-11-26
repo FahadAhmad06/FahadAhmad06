@@ -15,20 +15,92 @@
 
 ## <img src="https://img.shields.io/badge/ABOUT%20ME-0B3B8C?style=for-the-badge&logo=github&logoColor=white" />
 
+*Getting to know the person behind the code.*
+
 </div>
 
-Hello! I'm **Fahad Ahmad**, a Computer Science student at the **University of Veterinary and Animal Sciences (UVAS), Lahore, Pakistan**.
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-I'm passionate about programming and building software applications that solve real-world problems. I enjoy exploring new technologies, developing web applications, and strengthening my problem-solving skills.
+### 👋 Hello, I'm Fahad Ahmad!
 
-Currently, I'm focusing on improving my software development skills through practical projects and continuous learning.
+I'm a **Computer Science student** at the **University of Veterinary and Animal Sciences (UVAS), Lahore, Pakistan**.
 
-- 🎓 Pursuing a Bachelor's degree in Computer Science at UVAS Lahore.
-- 💻 Interested in Full-Stack Web Development and Software Engineering.
-- 🌐 Working with React.js, Node.js, and MongoDB.
-- 🤖 Exploring Artificial Intelligence and Data Science.
-- 🛠️ Building academic and personal projects to gain practical experience.
-- 📚 Always learning, experimenting, and improving.
+I'm passionate about programming, software development, and exploring technologies that turn creative ideas into practical solutions.
+
+I enjoy learning by building projects, experimenting with different tools, and improving my problem-solving abilities.
+
+**My goal is to grow as a software developer by combining strong programming fundamentals with hands-on experience.**
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LEARN-0B3B8C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/BUILD-1D4ED8?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GROW-2563EB?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 What I'm Interested In
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💻
+
+**Web Development**
+
+Building modern and responsive web applications.
+
+</td>
+<td width="33%" align="center">
+
+### 🤖
+
+**Artificial Intelligence**
+
+Exploring AI and intelligent applications.
+
+</td>
+<td width="33%" align="center">
+
+### 📊
+
+**Data Science**
+
+Learning data analysis and extracting insights.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🚀 Currently Focused On
+
+<img src="https://img.shields.io/badge/01-Improving%20Programming%20Skills-0B3B8C?style=flat-square" />
+<img src="https://img.shields.io/badge/02-Building%20Real--World%20Projects-1D4ED8?style=flat-square" />
+<img src="https://img.shields.io/badge/03-Exploring%20New%20Technologies-2563EB?style=flat-square" />
+
+<br/><br/>
+
+*"Every project is an opportunity to learn something new."*
+
+</div>
 
 ---
 
